@@ -1,4 +1,4 @@
-# 
+# updated osmosis trading bot Plugin | slippage-control + token-swapping offers the most advanced osmosis trading bot, with slippage-control and token-swapping. Ideal for
 
 
 
